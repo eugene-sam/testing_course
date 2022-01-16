@@ -1,0 +1,12 @@
+Project
+Issue type
+Summary
+Components
+Discription
+Fix versions
+Priority
+Labels
+Attachments
+Linked issues
+Assignee
+Sprint
