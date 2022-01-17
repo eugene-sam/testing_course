@@ -1,0 +1,24 @@
+Test all the mandatory fields should be validated.
+Test the asterisk sign should display for all the mandatory fields.
+Test the system should not display the error message for optional fields.
+Test that leap years are validated correctly & do not cause errors/miscalculations.
+Test the numeric fields should not accept the alphabets and proper error message should display.
+Test for negative numbers if allowed for numeric fields.
+Test division by zero should be handled properly for calculations.
+Test the max length of every field to ensure the data is not truncated.
+Test the pop up message (“This field is limited to 500 characters”) should display if the data reaches the maximum size of the field.
+Test that a confirmation message should display for update and delete operations.
+Test the amount values should display in currency format.
+Test all input fields for special characters.
+Test the timeout functionality.
+Test the Sorting functionality.
+Test the functionality of the buttons available
+Test the Privacy Policy & FAQ is clearly defined and should be available for users.
+Test if any functionality fails the user gets redirected to the custom error page.
+Test all the uploaded documents are opened properly.
+Test the user should be able to download the uploaded files.
+Test the email functionality of the system.
+Test the Java script is properly working in different browsers (IE, Firefox, Chrome, safari and Opera).
+Test to see what happens if a user deletes cookies while in the site.
+Test to see what happens if a user deletes cookies after visiting a site.
+Test all the data inside combo/list box is arranged in chronological order.
